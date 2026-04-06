@@ -22,6 +22,6 @@ public class Automovil {
 
     public void getEstado() {
         System.out.println("Marca: " + marca + ", Modelo: " + modelo +
-                ", Año: " + ano + ", Velocidad: " + velocidadActual);
+                ", Anio: " + anio + ", Velocidad: " + velocidadActual);
     }
 }
